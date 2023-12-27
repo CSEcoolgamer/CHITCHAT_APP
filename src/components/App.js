@@ -1,6 +1,6 @@
-import React from "react"
+import React from "react";
 
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 // import { AuthProvider } from "../contexts/AuthContext"
 
@@ -22,4 +22,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
